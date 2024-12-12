@@ -11,4 +11,4 @@ student_info['age'] = 26
 # Adding the key value pair
 student_info['city'] = 'Kampala'
 
-print(F"The new dictionary is {student_info}") 
+print(F"The new updated dictionary is {student_info}") 

@@ -10,7 +10,7 @@ def numbers():
 # Create a variable to hold your values
 number = numbers()
 
-print(number)
+print(f" The sum, difference, and quotient of the numbers are {number} respectively")
     
  
 
