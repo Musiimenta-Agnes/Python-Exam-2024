@@ -1,4 +1,4 @@
-# fFinding the sum of only odd numbers from the given list.
+# Finding the sum of only odd numbers from the given list.
 
 integers = [4,7,2,9,12,15]
 sum_odd_numbers = 0

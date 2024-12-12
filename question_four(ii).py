@@ -1,3 +1,8 @@
+
+# Stating the sentence
 sentence = 'My name is Agnes'
-sentence.count(sentence)
-print(sentence)
+
+for word in sentence:
+    print(word)
+    
+    
